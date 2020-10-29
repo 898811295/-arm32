@@ -1,8 +1,12 @@
-#PJ小宇
+#PJ小宇 
 
 cd /.
 
-mkdir mnts XY /usr/node
+rm -rf /usr/node
+
+cd /.
+
+mkdir mnts /usr/node
 
 cd /root/-arm32-main
 
